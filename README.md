@@ -30,7 +30,7 @@ net stop serves versions:
 | 3.1.x   | :x:                |
 | < 4.0   | :x:                |
 
-## Reporting a Vulnerability
+## Use stop serves version how does it affect me?
 
 How does it affect me?
 

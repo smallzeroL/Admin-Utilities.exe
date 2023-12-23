@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-not serves versions:
+not stop serves versions:
 1.4.0.3
 1.4.0.2
 1.4.0.0

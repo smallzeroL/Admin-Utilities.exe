@@ -2,8 +2,11 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+not serves versions:
+1.4.0.3
+1.4.0.2
+1.4.0.0
+1.3.3.0-beta
 
 | Version | Supported          |
 | ------- | ------------------ |

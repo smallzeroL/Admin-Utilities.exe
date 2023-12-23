@@ -18,7 +18,7 @@ The original version stop serves at 2023/9/21.
 # Security Policy
 
 ## Supported Versions
-net stop serves versions:
+not stop serves versions:
 1.4.0.0
 1.4.0.3
 1.4.0.2

@@ -29,6 +29,7 @@ not stop serves versions:
 | 4.0.x   | :white_check_mark: |
 | 3.1.x   | :x:                |
 | < 4.0   | :x:                |
+|original version|:x:          |
 
 ## Use stop serves version how does it affect me?
 
